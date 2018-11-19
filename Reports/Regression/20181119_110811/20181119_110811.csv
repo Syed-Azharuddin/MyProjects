@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Regression,,,2018-11-19 11:08:13,2018-11-19 11:08:13,0.808s,FAILED
+,,,,,,
+Test Cases/TC1_Open BrowserWith Web UrL,,,2018-11-19 11:08:13,2018-11-19 11:08:13,0.516s,FAILED
+openBrowser,,,2018-11-19 11:08:13,2018-11-19 11:08:13,0.312s,FAILED
