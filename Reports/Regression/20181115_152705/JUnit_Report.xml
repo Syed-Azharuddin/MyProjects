@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Regression" time="14" tests="1" failures="0" errors="0">
+   <testsuite name="Regression" tests="1" failures="0" errors="0" time="14" timestamp="2018-11-15 15:27:06" hostname="azharuddin.syed - ACD-057.amla.io" id="Test Suites/Regression">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="D:\\Practice\\JenkinsExample\\Reports\\Regression\\20181115_152705"/>
+         <property name="logFiles" value="D:\\Practice\\JenkinsExample\\Reports\\Regression\\20181115_152705\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="azharuddin.syed - ACD-057.amla.io"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.8.6.1"/>
+         <property name="browser" value="Chrome 70.0.3538.102"/>
+         <property name="hostAddress" value="10.0.13.80"/>
+         <property name="sessionId" value="5b9cafcab10ebc4fa9fc06f21b2cbeb3"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TC1_Open BrowserWith Web UrL" classname="Test Cases/TC1_Open BrowserWith Web UrL" status="PASSED">
+         <system-out><![CDATA[2018-11-15 15:27:07 - [TEST_CASE][PASSED] - Test Cases/TC1_Open BrowserWith Web UrL: Test Cases/TC1_Open BrowserWith Web UrL
+
+2018-11-15 15:27:07 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'http://webstore.znodellc.com/'
+
+2018-11-15 15:27:16 - [MESSAGE][PASSED] - Browser is opened with url: 'http://webstore.znodellc.com/'
+
+2018-11-15 15:27:16 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-11-15 15:27:17 - [MESSAGE][PASSED] - Current window maximized
+
+2018-11-15 15:27:17 - [TEST_STEP][PASSED] - setText: Text 'apple' is set on object 'Object Repository/OBJ1'
+
+2018-11-15 15:27:17 - [MESSAGE][PASSED] - Text 'apple' is set on object 'Object Repository/OBJ1'
+
+2018-11-15 15:27:17 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/OBJ2' is clicked on
+
+2018-11-15 15:27:20 - [MESSAGE][PASSED] - Object: 'Object Repository/OBJ2' is clicked on
+
+2018-11-15 15:27:20 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-11-15 15:27:21 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-11-15 15:27:06 - [TEST_SUITE][PASSED] - Regression: Test Cases/TC1_Open BrowserWith Web UrL]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
