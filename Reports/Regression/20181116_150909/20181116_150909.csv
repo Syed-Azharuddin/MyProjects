@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Regression,Chrome 70.0.3538.102,,2018-11-16 15:09:10,2018-11-16 15:09:56,46.249s,FAILED
+,,,,,,
+Test Cases/TC1_Open BrowserWith Web UrL,Chrome 70.0.3538.102,,2018-11-16 15:09:10,2018-11-16 15:09:55,45.272s,FAILED
+openBrowser,Chrome 70.0.3538.102,,2018-11-16 15:09:10,2018-11-16 15:09:21,10.697s,PASSED
+maximizeWindow,Chrome 70.0.3538.102,,2018-11-16 15:09:21,2018-11-16 15:09:22,1.166s,PASSED
+setText,Chrome 70.0.3538.102,,2018-11-16 15:09:22,2018-11-16 15:09:23,0.201s,PASSED
+click,Chrome 70.0.3538.102,,2018-11-16 15:09:23,2018-11-16 15:09:55,32.915s,FAILED
